@@ -1,0 +1,14 @@
+User
+
+Login: user@user.com
+Password: User1234
+
+Seller
+
+Login: Shop1
+Password: Shop1234
+
+Admin
+
+Login: admin
+Password: 12345
